@@ -1,5 +1,5 @@
-# TORCH
-## Dataset
+# New Method, Dataset, and Evaluation Metric for Supervised Hierarchical Cross-Modal Hashing
+## HIER Food-71 Dataset
 We construct a new dataset named HIER Food-71 which is composed of 30,817 image-text instances labeled with a two-layer class hierarchy. The dataset contains the following data:
 * label.mat: Label matrix, 30817 * 71, 71 kinds of labels in total. Labels are divided into two layers, the first layer has 5 labels (1-5) and the second layer has 66 labels (6-71),
 * ingredient.mat: Tag matrix, 30817 * 316, 316 kinds of ingredient tags in total,
