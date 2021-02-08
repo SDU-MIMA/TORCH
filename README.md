@@ -10,4 +10,4 @@ There is a lack of benchmark datasets which involve multiple modalities and are 
 
 You can download the HIER Food-71 from the following links:
 * [Google drive link](https://drive.google.com/drive/folders/1KE2zZ5l2s74V6i7IbBBxUyfbChQVCGoc?usp=sharing)
-* [baidu.pan.com link](https://pan.baidu.com/s/1bHwr6__uBgsxn2u4w7cpDw)  Pssword:4xr7 
+* [baidu.pan.com link](https://pan.baidu.com/s/1bHwr6__uBgsxn2u4w7cpDw)  Password:4xr7 
