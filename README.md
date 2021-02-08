@@ -18,4 +18,4 @@ We put forward a new evaluation matrix, i.e., the Mean Average Precision with Pe
 ## 3. Method: TwO-step hieRarchical Cross-modal Hashing(TORCH)
 We design a simple yet effective method to efficiently learn high-quality hash codes by preserving the label hierarchy. 
 ### 3.1 Running Environment
-  Matlab
+    Matlab
