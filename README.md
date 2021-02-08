@@ -14,4 +14,4 @@ You can download the HIER Food-71 from the following links:
 
 ## Mean Average Precision with Penalty (MAPP) metric
 We put forward a new evaluation matrix, i.e., the Mean Average Precision with Penalty (MAPP) metric because the widely-adopted evaluation metric Mean Average Precision seems to be inappropriate to the supervised hierarchical retrieval. The MAPP could well reflect the degree of the retrieved instances whether or not are sorted by label hierarchy. 
-\sum{k=1,K}
+
