@@ -24,5 +24,5 @@ We use three datasets to perform our experiments, i.e., FashionVC, Ssense, and H
 * [FashionVC](https://pan.baidu.com/s/1VZwdU8MhWkvVmpMjrFJktw) password:sreu
 * [Ssense](https://pan.baidu.com/s/1RZsSZY5pY2GSAQEu5ciqAw)  password:qwmq
 ### 3.3 Run demo
-    main_demo.m
+    main_demo_susie.m
 
