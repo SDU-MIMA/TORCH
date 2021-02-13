@@ -13,7 +13,7 @@ You can download the HIER Food-71 from the following links:
 * [baidu.pan.com link](https://pan.baidu.com/s/1bHwr6__uBgsxn2u4w7cpDw) password:4xr7 
 
 ## 2. Evaluation Metric: Mean Average Precision with Penalty (MAPP) metric
-We put forward a new evaluation matrix, i.e., the Mean Average Precision with Penalty (MAPP) metric because the widely-adopted evaluation metric Mean Average Precision seems to be inappropriate to the supervised hierarchical retrieval. The MAPP could well reflect the degree of the retrieved instances whether or not are sorted by label hierarchy. Specific implementation codes can refer to ./utils/tool/mAP_pnenalty.m
+We put forward a new evaluation matrix, i.e., the Mean Average Precision with Penalty (MAPP) metric because the widely-adopted evaluation metric Mean Average Precision seems to be inappropriate to the supervised hierarchical retrieval. The MAPP could well reflect the degree of the retrieved instances whether or not are sorted by label hierarchy. Specific implementation codes can refer to [mAP_pnenalty.m](https://github.com/suuusie/Paper298/blob/main/utils/tool/mAP_penalty.m)
 
 ## 3. Method: TwO-step hieRarchical Cross-modal Hashing(TORCH)
 We design a simple yet effective method to efficiently learn high-quality hash codes by preserving the label hierarchy. 
