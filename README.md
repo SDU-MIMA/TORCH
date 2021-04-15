@@ -1,4 +1,4 @@
-# New Method, Dataset, and Evaluation Metric for Supervised Hierarchical Cross-Modal Hashing
+# New Method and Dataset for Supervised Hierarchical Cross-Modal Hashing
 ## 1. Dataset: HIER Food-71
 There is a lack of benchmark datasets which involve multiple modalities and are hierarchically labeled. Besides, the exisiting hierarchically-labeled datasets focus only on the fashion domain. Quite naturally, food has rich hierarchical label information and the cross-media retrieval with hierarchical categories in food domain has the great demand. In view of this,  we build a benchmark dataset named HIER Food-71 from food domain which contains 30,817 image-text instances labeled with a two-layer hierarchy. The dataset contains the following data:
 * label.mat: Label matrix, 30817 * 71, 71 labels in total. Labels are divided into two layers, the 1st to 5th labels represent the cateogeries of the first layer while the 6th to 71st labels represent the catogeries of the second layer.
