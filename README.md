@@ -12,17 +12,14 @@ You can download the HIER Food-71 from the following links:
 * [Google drive link](https://drive.google.com/drive/folders/1KE2zZ5l2s74V6i7IbBBxUyfbChQVCGoc?usp=sharing)
 * [baidu.pan.com link](https://pan.baidu.com/s/1bHwr6__uBgsxn2u4w7cpDw) password:4xr7 
 
-## 2. Evaluation Metric: Mean Average Precision with Penalty (MAPP) metric
-We put forward a new evaluation matrix, i.e., the Mean Average Precision with Penalty (MAPP) metric because the widely-adopted evaluation metric Mean Average Precision seems to be inappropriate to the supervised hierarchical retrieval. The MAPP could well reflect the degree of the retrieved instances whether or not are sorted by label hierarchy. Specific implementation codes can refer to [mAP_pnenalty.m](https://github.com/suuusie/Paper298/blob/main/utils/tool/mAP_penalty.m)
-
-## 3. Method: TwO-step hieRarchical Cross-modal Hashing(TORCH)
+## 2. Method: TwO-step hieRarchical Cross-modal Hashing(TORCH)
 We design a simple yet effective method to efficiently learn high-quality hash codes by preserving the label hierarchy. 
-### 3.1 Running Environment
+### 2.1 Running Environment
     Matlab
-### 3.2 Dataset
+### 2.2 Dataset
 We use three datasets to perform our experiments, i.e., FashionVC, Ssense, and HIER Food-71 datasets. You can download the FashionVC and Ssense by the following links:
 * [FashionVC](https://pan.baidu.com/s/1VZwdU8MhWkvVmpMjrFJktw) password:sreu
 * [Ssense](https://pan.baidu.com/s/1RZsSZY5pY2GSAQEu5ciqAw)  password:qwmq
-### 3.3 Run demo
+### 2.3 Run demo
     main_demo_susie.m
 
